@@ -24,5 +24,4 @@ public class ResumenActivity extends AppCompatActivity {
                     extras.getString("resumen"));
         }
     }
-
 }
