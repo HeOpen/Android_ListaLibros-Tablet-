@@ -10,4 +10,9 @@ public class Libro {
         this.autor = a;
         this.resumen = r;
     }
+    @Override
+    public String toString() {
+        return this.titulo + " (" + this.autor + ")";
+    }
+
 }
