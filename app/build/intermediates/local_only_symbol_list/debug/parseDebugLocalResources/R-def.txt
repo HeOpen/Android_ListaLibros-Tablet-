@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id autorLibro
+id emptyListView
+id libroFragment
+id listView
+id resumenFragment
+id resumenLibro
+id tituloLibro
+layout activity_main
+layout activity_resumen
+layout fragment_lista_libros
+layout fragment_resumen_libro
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.DM2E_OlahEliabe_Practica94
+style Theme.DM2E_OlahEliabe_Practica94
+xml backup_rules
+xml data_extraction_rules
